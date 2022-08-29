@@ -8,7 +8,15 @@ section{
 }
 .background-blue{
     color: #1fa9e5;
-
+}
+p{
+    font-size: 22px;
+}
+.font-article{
+    font-size: 22px;
+}
+td{
+    color: white;
 }
 
 
@@ -64,3 +72,43 @@ section{
     margin-top: 2px;
     font-size: 20px;
 }
+
+.box-article{
+    margin-top: 30px;
+}
+.box-ul{
+    margin-left: 18px;
+    margin-top: 30px;
+}
+.table{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 100%;
+    
+}
+table thead td{
+    background-color: #20a9e5;
+}
+table tbody td{
+    background-color: #8abdd3;
+    color: black;
+}
+.table-uno{
+    width: 25%;
+}
+.table-due{
+    width: 25%;
+}
+.table-tre{
+    width: 50px;
+}
+#seconda-riga{
+    background-color: white;
+}
+#color-seconda-riga{
+    color: black;
+}
+.white{
+    background-color: white;
+}
+
