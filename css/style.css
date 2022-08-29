@@ -3,8 +3,7 @@
 
 /* Section generali */
 section,footer{
-    width: 98%;
-    margin: auto;
+    padding: 0 10px;
 }
 .background-blue{
     color: #1fa9e5;
