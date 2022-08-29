@@ -9,6 +9,9 @@ section{
 .background-blue{
     color: #1fa9e5;
 }
+.background-yellow{
+    background-color: yellow;
+}
 p{
     font-size: 22px;
 }
