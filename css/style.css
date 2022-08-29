@@ -1,6 +1,17 @@
 /* Reset */
 *{margin: 0;padding: 0;box-sizing: border-box;}
 
+/* Section generali */
+section{
+    width: 98%;
+    margin: auto;
+}
+.background-blue{
+    color: #1fa9e5;
+
+}
+
+
 /* Header */
 .box-header{
     width: 100%;
@@ -17,4 +28,39 @@
 }
 
 /* Main */
+/* _____Box-Title */
+.box-title{
+    width: 100%;
+    margin-top: 30px;
 
+}
+.box-title h1{
+    font-size: 70px;
+    font-weight: 900;
+    
+}
+.box-title h3{
+    font-size: 30px;
+    color: grey;
+}
+.box-title h4{
+    font-size: 20px;
+    color: grey;
+}
+/* _____Box-img */
+.box-img{
+    margin-top: 30px;
+
+}
+.box-img img{
+    width: 45%;
+    height: 600px;
+    object-fit: cover;
+}
+#img-uno{
+    width: 50%;
+}
+.box-img h4{
+    margin-top: 2px;
+    font-size: 20px;
+}
