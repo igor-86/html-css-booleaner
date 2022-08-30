@@ -89,6 +89,9 @@ td{
     border-collapse: collapse;
     
 }
+table thead th{
+    text-align: left;
+}
 table thead td{
     background-color: #20a9e5;
 }
@@ -114,6 +117,7 @@ table tbody td{
 .white{
     background-color: white;
 }
+
 
 /* Footer */
 .box-footer{
